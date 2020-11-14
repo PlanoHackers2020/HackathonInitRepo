@@ -11,7 +11,7 @@ Table of contents
 
 <!--ts-->
    * [FusionFabric.Cloud Logo Usage Guidelines](#FusionFabric.Cloud-Logo-Usage-Guidelines)
-   * [ReactJS](#ReactJS)
+   *  [ReactJS Usage](#ReactJS-Usage)
    * [elixir](#elixir)
    * [Phoenix](#Phoenix)
    * [AWS](#AWS)
@@ -28,29 +28,20 @@ FusionFabric.Cloud Logo Usage Guidelines
  
 
 
-ReactJS
+ReactJS Usage
 ============
 https://reactjs.org/tutorial/tutorial.html
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="drawing" width="15%"/>
 
-```js
-class ShoppingList extends React.Component {
-  render() {
-    return (
-      <div className="shopping-list">
-        <h1>Shopping List for {this.props.name}</h1>
-        <ul>
-          <li>Instagram</li>
-          <li>WhatsApp</li>
-          <li>Oculus</li>
-        </ul>
-      </div>
-    );
-  }
-}
+First install packager
+```sh
+npm i
+```
 
-// Example usage: <ShoppingList name="Mark" />
+To run app in browser 
+```sh
+npm start
 ```
 
 
