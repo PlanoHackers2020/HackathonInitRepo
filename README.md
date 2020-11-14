@@ -20,64 +20,13 @@ Table of contents
 FusionFabric.Cloud Logo Usage Guidelines
 ============
 #### The marketing assets are usually the best place to find logos, icons, and color palettes codes. 
-
-
-<!DOCTYPE html>
-<html>
-    <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <style>
-      * { box-sizing: border-box;}
-        .column {
-            float: left;
-            width: 33%;
-            padding: 5px;
-            height: 400px;
-        }
-        .row {
-            width: 100%;
-            padding: 5px;
-            height: 600px;
-        }
-        .body {
-          background-image: url('https://raw.githubusercontent.com/PlanoHackers2020/HackathonInitRepo/main/photos/cl1.JPG');
-        } 
-    </style>
-    </head>
-    <body>
-    <div class="row" style="background-image: url('https://www.plexiglas.de/files/plexiglas-content/main/produkte/plexiglas/trendfarben/trendfarbe_2018.jpg'" >
-      <div style="text-align:left"> <p style="color:white"; >
-          <b>Origins:</b> <br>
-          <b>FIN</b> – Finance <br>
-          <b>ASTRA</b> – Star (Latin)
-          <br></br>
-          <b>Meaning:</b><br>
-          We are a new star, born in the wide universe<br>
-          of financial software. Unlocking the potential<br>
-          of people and businesses by leading them<br>
-          into the open future of finance.<br>
-          <br>
-          <ul style="color:white">
-              <li>Leading customers through transformation,<br>
-              from closed legacy systems to a future of<br>
-              open architecture.<br></li>
-              <li>Leading the development, deployment<br>
-              and consumption of financial services
-              software, towards a more innovative,
-              collaborative and open approach. </li>
-          </ul>
-        </div> </p>
-      </div>
-    </body>
-</html>
- 
 # [PDF guide](https://www.fusionfabric.cloud/sites/default/files/files/2018-06/ffdc-logo-guide.pdf)
-<!-- <img src="https://raw.githubusercontent.com/PlanoHackers2020/HackathonInitRepo/main/photos/cl1.JPG" alt="drawing" width="100%"/> -->
 
-<br>
-<br><br>
-<br><br>
-<br>
+
+<img src="https://raw.githubusercontent.com/PlanoHackers2020/HackathonInitRepo/main/photos/cl1.JPG" alt="drawing"/>
+
+ 
+
 
 ReactJS
 ============
