@@ -21,6 +21,7 @@ FusionFabric.Cloud Logo Usage Guidelines
 ============
 #### The marketing assets are usually the best place to find logos, icons, and color palettes codes. 
 
+
 <!DOCTYPE html>
 <html>
     <head>
@@ -29,17 +30,30 @@ FusionFabric.Cloud Logo Usage Guidelines
       * { box-sizing: border-box;}
         .column {
             float: left;
-            width: 50%;
-            padding: 0px;
+            width: 33%;
+            padding: 5px;
             height: 400px;
         }
+        .row {
+            width: 100%;
+            padding: 5px;
+            height: 600px;
+        }
+        /* body {
+  background-image: url('https://raw.githubusercontent.com/PlanoHackers2020/HackathonInitRepo/main/photos/cl1.JPG');
+} */
     </style>
     </head>
+    <div class="row" style="background-image: url('https://www.plexiglas.de/files/plexiglas-content/main/produkte/plexiglas/trendfarben/trendfarbe_2018.jpg'" >
+    <br>
+    <br>
+    <br>
     <body>
         <div class="row"> 
-            <div class="column" ><img src="https://pbs.twimg.com/media/DDZKiLmWAAEWGdu.jpg" size=1> </div>
-            <div class="column" >
-                <div style="text-align:left"> <p style="color:purple">
+            <div class="column"> </div>
+            <div class="column"> </div>
+            <div class="column">
+                <div style="text-align:left"> <p style="color:white"; >
                     <b>Origins:</b> <br>
                     <b>FIN</b> – Finance <br>
                     <b>ASTRA</b> – Star (Latin)
@@ -50,7 +64,7 @@ FusionFabric.Cloud Logo Usage Guidelines
                     of people and businesses by leading them<br>
                     into the open future of finance.<br>
                     <br>
-                    <ul style="color:purple">
+                    <ul style="color:white">
                         <li>Leading customers through transformation,<br>
                         from closed legacy systems to a future of<br>
                         open architecture.<br></li>
@@ -59,20 +73,14 @@ FusionFabric.Cloud Logo Usage Guidelines
                         software, towards a more innovative,
                         collaborative and open approach. </li>
                     </ul>
-                </div>
+                </div></div>
             </div> </p>
-        </div>
+        </div></div>
     </body>
 </html>
-
+ 
 # [PDF guide](https://www.fusionfabric.cloud/sites/default/files/files/2018-06/ffdc-logo-guide.pdf)
-
-
-
-
-
-
-
+<!-- <img src="https://raw.githubusercontent.com/PlanoHackers2020/HackathonInitRepo/main/photos/cl1.JPG" alt="drawing" width="100%"/> -->
 
 <br>
 <br><br>
