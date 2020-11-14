@@ -39,43 +39,35 @@ FusionFabric.Cloud Logo Usage Guidelines
             padding: 5px;
             height: 600px;
         }
-        /* body {
-  background-image: url('https://raw.githubusercontent.com/PlanoHackers2020/HackathonInitRepo/main/photos/cl1.JPG');
-} */
+        .body {
+          background-image: url('https://raw.githubusercontent.com/PlanoHackers2020/HackathonInitRepo/main/photos/cl1.JPG');
+        } 
     </style>
     </head>
-    <div class="row" style="background-image: url('https://www.plexiglas.de/files/plexiglas-content/main/produkte/plexiglas/trendfarben/trendfarbe_2018.jpg'" >
-    <br>
-    <br>
-    <br>
     <body>
-        <div class="row"> 
-            <div class="column"> </div>
-            <div class="column"> </div>
-            <div class="column">
-                <div style="text-align:left"> <p style="color:white"; >
-                    <b>Origins:</b> <br>
-                    <b>FIN</b> – Finance <br>
-                    <b>ASTRA</b> – Star (Latin)
-                    <br></br>
-                    <b>Meaning:</b><br>
-                    We are a new star, born in the wide universe<br>
-                    of financial software. Unlocking the potential<br>
-                    of people and businesses by leading them<br>
-                    into the open future of finance.<br>
-                    <br>
-                    <ul style="color:white">
-                        <li>Leading customers through transformation,<br>
-                        from closed legacy systems to a future of<br>
-                        open architecture.<br></li>
-                        <li>Leading the development, deployment<br>
-                        and consumption of financial services
-                        software, towards a more innovative,
-                        collaborative and open approach. </li>
-                    </ul>
-                </div></div>
-            </div> </p>
-        </div></div>
+    <div class="row" style="background-image: url('https://www.plexiglas.de/files/plexiglas-content/main/produkte/plexiglas/trendfarben/trendfarbe_2018.jpg'" >
+      <div style="text-align:left"> <p style="color:white"; >
+          <b>Origins:</b> <br>
+          <b>FIN</b> – Finance <br>
+          <b>ASTRA</b> – Star (Latin)
+          <br></br>
+          <b>Meaning:</b><br>
+          We are a new star, born in the wide universe<br>
+          of financial software. Unlocking the potential<br>
+          of people and businesses by leading them<br>
+          into the open future of finance.<br>
+          <br>
+          <ul style="color:white">
+              <li>Leading customers through transformation,<br>
+              from closed legacy systems to a future of<br>
+              open architecture.<br></li>
+              <li>Leading the development, deployment<br>
+              and consumption of financial services
+              software, towards a more innovative,
+              collaborative and open approach. </li>
+          </ul>
+        </div> </p>
+      </div>
     </body>
 </html>
  
