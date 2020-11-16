@@ -20,8 +20,7 @@ const HomePage = () => (
             Yellow, black. Yellow, black.
             Yellow, black. Yellow, black.
         </p>
-       
-    </>
+   </>
 );
 
 export default HomePage;

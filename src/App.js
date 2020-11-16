@@ -1,16 +1,12 @@
-import React, { Component } from 'react';
-import {
-  BrowserRouter as Router,
-  Route,
-  Switch,
-} from 'react-router-dom';
-import './App.css';
-import HomePage from './pages/Homepage';
-import AboutPage from './pages/AboutPage';
-import ArticlesPage from './pages/ArticlesPage';
-import ArticlesListPage from './pages/ArticlesListPage';
+import React from 'react';
+import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import NavBar from './NavBar';
+import AboutPage from './pages/AboutPage';
+import ArticlePage from './pages/ArticlePage';
+import ArticlesListPage from './pages/ArticlesListPage';
+import HomePage from './pages/HomePage';
 import ForOhFor from './pages/ForOhFor';
+import './App.css';
 
 function App() {
   return (
@@ -19,10 +15,10 @@ function App() {
         <NavBar />
         <div id="page-body">
           <Switch>
-            <Route path="/" component={HomePage} exact/>
+            <Route path="/" exact component={HomePage} />
             <Route path="/about" component={AboutPage} />
-            <Route path="/article/:name" component={ArticlesPage} />
-            <Route path="/articles-list" component={ArticlesListPage} />
+            <Route path="/articles" exact component={ArticlesListPage} />
+            <Route path="/articles/:name" component={ArticlePage} />
             <Route component={ForOhFor} />
           </Switch>
         </div>
